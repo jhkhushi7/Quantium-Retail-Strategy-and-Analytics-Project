@@ -39,7 +39,7 @@ Using Python and analytical thinking, this project covers :
 ## Dataset
 Provided by **Quantium** as part of the virtual internship.  
 Includes:
-- `transaction_data.csv` – product-level purchase details  
+- `transaction_data.xlsx` – product-level purchase details  
 - `purchase_behaviour.csv` – customer segment and loyalty information  
 
 ---
