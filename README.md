@@ -8,7 +8,7 @@ Using Python and analytical thinking, this project covers :
 - Creating and derived features like **pack size** and **brand** from product names
 - Merging transaction and customer data for detailed insights
 - Visualizing **sales trends** across different customer segments
--  Conducting statistical testing to validate observations  
+-  Conducting **statistical testing and A/B testing** to validate insights 
 - Providing actionable recommendations for marketing and product strategies  
 
 ---
